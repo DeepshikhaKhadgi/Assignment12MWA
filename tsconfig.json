@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false
+    },
+    "files":["exercise1.ts","exercise2.ts","exercise3.ts","exercise4.ts"]
+}
